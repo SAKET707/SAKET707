@@ -1,12 +1,13 @@
 # SAKET
 
 **B.Tech Student at NIT Rourkela (2024–2028)**  
-Machine Learning • Deep Learning • Mathematics • Generative AI • Quantitative Finance • NLP 
+Machine Learning • Deep Learning • Mathematics • Generative AI • Quantitative Finance • NLP • Data Structures
 
 ---
 
 ### About Me
 - Undergraduate student at **NIT Rourkela**
+- Artificial Intelligence, Computer Science Department 
 - Interested in **ML, DL, NLP, Mathematics**, and their real-world applications  
 - Currently exploring **Generative AI** and **Quant Finance**  
 - Focused on building solid foundations in **AI and modeling**
@@ -14,8 +15,8 @@ Machine Learning • Deep Learning • Mathematics • Generative AI • Quantit
 ---
 
 ### Skills
-- **Languages:** Python, SQL, C, C++  
-- **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
+- **Languages:** Python, SQL, C (Intermediate), C++ (Intermediate)
+- **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Langchain
 - **Tools:** Git, Streamlit, Windows  
 
 ---
