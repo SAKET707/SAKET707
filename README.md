@@ -21,7 +21,7 @@ Machine Learning • Deep Learning • Mathematics • Generative AI • Quantit
 ---
 
 ### GitHub Stats
-![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saket016&show_icons=true&theme=default&hide_title=true)
+![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAKET707&show_icons=true&theme=default&hide_title=true)
 
 ---
 
