@@ -6,7 +6,7 @@ Machine Learning • Deep Learning • Mathematics • Generative AI • Quantit
 ---
 
 ### About Me
-Hi, I’m an undergraduate student at **NIT Rourkela**, pursuing **Artificial Intelligence and Computer Science**. My interests lie in **Machine Learning, Deep Learning, NLP, and Mathematics**, especially their practical applications in solving real-world problems. I’m currently exploring **Generative AI** and **Quantitative Finance**, with a focus on developing strong theoretical and applied foundations in **AI and computational modeling**.
+Hi, I’m an undergraduate student at **NIT Rourkela**, pursuing **Artificial Intelligence, Computer Science Department**. My interests lie in **Machine Learning, Deep Learning, NLP, and Mathematics**, especially their practical applications in solving real-world problems. I am currently exploring **Generative AI** and **Quantitative Finance**, while also strengthening my understanding of **Data Structures** and **SQL** to build a robust foundation in computational problem-solving and applied AI.
 
 ---
 
