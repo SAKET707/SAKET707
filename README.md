@@ -1,4 +1,4 @@
-# Saket
+# SAKET
 
 **B.Tech Student at NIT Rourkela (2024–2028)**  
 Machine Learning • Deep Learning • Mathematics • Generative AI • Quantitative Finance • NLP 
@@ -28,3 +28,4 @@ Machine Learning • Deep Learning • Mathematics • Generative AI • Quantit
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/saket-kumar016)  
 - [Kaggle](https://www.kaggle.com/saket29)
+- [X](https://x.com/SaketKumar016)
