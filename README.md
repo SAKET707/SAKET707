@@ -1,16 +1,30 @@
-## Hi there 👋
+# Saket
 
-<!--
-**SAKET707/SAKET707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech Student at NIT Rourkela (2024–2028)**  
+Machine Learning • Deep Learning • Mathematics • Generative AI • Quantitative Finance • NLP 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Undergraduate student at **NIT Rourkela**
+- Interested in **ML, DL, NLP, Mathematics**, and their real-world applications  
+- Currently exploring **Generative AI** and **Quant Finance**  
+- Focused on building solid foundations in **AI and modeling**
+
+---
+
+### Skills
+- **Languages:** Python, SQL, C, C++  
+- **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
+- **Tools:** Git, Streamlit, Windows  
+
+---
+
+### GitHub Stats
+![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saket016&show_icons=true&theme=default&hide_title=true)
+
+---
+
+### Links
+- [LinkedIn](https://www.linkedin.com/in/saket-kumar016)  
+- [Kaggle](https://www.kaggle.com/saket29)
