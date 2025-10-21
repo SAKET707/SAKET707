@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **SAKET**
 
 **🎓 B.Tech in Artificial Intelligence, NIT Rourkela (2024–2028)**  
-💡 Machine Learning • Deep Learning • NLP • Generative AI • Quantitative Finance • Mathematics • Data Structures  
+💡 Machine Learning • Deep Learning • NLP • Generative AI • Quantitative Finance • Mathematics • Data Structures • SQL
 
 <div align="center">
   
