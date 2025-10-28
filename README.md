@@ -73,8 +73,8 @@ focus_areas = {
     "Machine Learning": ["Supervised", "Unsupervised", "Optimization", "Model Evaluation"],
     "Deep Learning": ["Neural Networks", "CNNs", "RNNs", "Transformers"],
     "NLP & GenAI": ["Text Processing", "Prompt Engineering", "LLMs"],
-    "Quantitative Finance": ["Financial Analytics", "AI Trading", "Market Prediction"],
-    "Core CS": ["Data Structures", "Algorithms", "SQL", "OOP Concepts"]
+    "Quantitative Finance": ["Financial Analytics", "Market Prediction"],
+    "Core CS": ["Data Structures", "Algorithms", "SQL"]
 }
 ```
 </div>
