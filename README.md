@@ -95,21 +95,6 @@ Currently, I’m focused on:
 </div>
 
 ---
-
-## 🚀 Areas of Interest
-
-```python
-focus_areas = {
-    "Machine Learning": ["Supervised", "Unsupervised", "Optimization", "Model Evaluation"],
-    "Deep Learning": ["Neural Networks", "CNNs", "RNNs", "Transformers"],
-    "NLP & GenAI": ["Text Processing", "Prompt Engineering", "LLMs"],
-    "Quantitative Finance": ["Financial Analytics", "Market Prediction"],
-    "Core CS": ["Data Structures", "Algorithms", "SQL"]
-}
-```
-</div>
-
----
 ## 📬 Let’s Connect!
 
 I’m always eager to collaborate on projects that combine AI, finance, and data-driven decision-making.
