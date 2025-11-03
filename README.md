@@ -3,16 +3,14 @@
 **🎓 B.Tech in Artificial Intelligence, NIT Rourkela (2024–2028)**  
 💡 Machine Learning • Deep Learning • NLP • Generative AI • Quantitative Finance • Mathematics • Data Structures • SQL
 
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:saketbawlia@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ksaket1409@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket-kumar016)
-[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/SaketKumar016)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saket.7007)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2300BFFF.svg?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/saket29)
-
-</div>
+<p align="center">
+  <a href="mailto:saketbawlia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ksaket1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saket-kumar016"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/SaketKumar016"><img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/saket.7007"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/saket29"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -106,3 +104,17 @@ Feel free to connect or drop a message if you’re working on something interest
 - [Instagram](https://www.instagram.com/saket.7007)
 - [Email: saketbawlia@gmail.com](mailto:saketbawlia@gmail.com)
 - [Email: ksaket1409@gmail.com](mailto:ksaket1409@gmail.com)
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" width="50" style="filter: drop-shadow(0 0 10px #00C2FF);">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1300&color=00C2FF&center=true&vCenter=true&width=550&lines=Designing+Intelligence+✨;Calm+mind+✨;SAKET707+on+GitHub+✨" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
