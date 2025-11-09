@@ -107,7 +107,9 @@ Feel free to connect or drop a message if you’re working on something interest
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" width="50" style="filter: drop-shadow(0 0 10px #00C2FF);">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+       width="50"
+       style="background-color: #000; border-radius: 50%; padding: 6px; filter: brightness(0) invert(1) drop-shadow(0 0 10px #00C2FF);">
 </p>
 
 <p align="center">
