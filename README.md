@@ -111,7 +111,7 @@ Feel free to connect or drop a message if you’re working on something interest
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1300&color=00C2FF&center=true&vCenter=true&width=550&lines=Designing+Intelligence+✨;Calm+mind+✨;SAKET707+on+GitHub+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1300&color=00C2FF&center=true&vCenter=true&width=550&lines=Designing+Intelligence+✨;Calm+mind+✨;SAKET707;GitHub" alt="Typing SVG" />
 </p>
 
 <p align="center">
