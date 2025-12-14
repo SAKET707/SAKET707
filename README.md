@@ -16,10 +16,10 @@
 
 ## 🧠 About Me
 Hi! I’m **Saket**, an undergraduate student at **NIT Rourkela**, pursuing **Artificial Intelligence** under the **Computer Science and Engineering** department.  
-I’m deeply interested in **Machine Learning, Deep Learning, NLP, and Generative AI**, and I love exploring how these technologies can be applied to real-world domains like **Quantitative Finance** and **Data Analytics**.  
+I’m deeply interested in **Machine Learning, Deep Learning, NLP, and Generative AI**, and I love exploring how these technologies can be applied to real-world domains like **Data Analytics**.  
 
 Currently, I’m focused on:
-- 📘 Strengthening my core in **Data Structures, Quant Finance, and SQL**  
+- 📘 Strengthening my core in **Data Structures and SQL**  
 - 🧩 Building end-to-end **AI models and analytical systems**  
 - 💰 Learning how **AI integrates with financial modeling and quantitative strategies**
 
