@@ -1,19 +1,44 @@
-# 👋 Hi, I'm **SAKET**
+# Hi, I'm **SAKET**
+---
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/0638addf-98f8-43ee-8857-9dc7ac1dfc83" />
 
-**🎓 B.Tech in Artificial Intelligence, NIT Rourkela (2024–2028)**  
-💡 Machine Learning • Deep Learning • NLP • Generative AI • Quantitative Finance • Mathematics • Data Structures • SQL
+---
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ksaket1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/saket-kumar016"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/SaketKumar016"><img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/saket.7007"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/saket29"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/saket-kumar016/">
+    <img src="https://img.shields.io/badge/LinkedIn%20%20-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209&logoWidth=20"
+         alt="LinkedIn profile of Saket Kumar" />
+  </a>
+
+  <a href="https://www.kaggle.com/saket29">
+    <img src="https://img.shields.io/badge/Kaggle%20%20%20-d5d5d5?style=for-the-badge&logo=kaggle&logoColor=0A0209&logoWidth=20"
+         alt="Kaggle profile of Saket Kumar" />
+  </a>
+
+  <a href="https://x.com/SaketKumar016">
+    <img src="https://img.shields.io/badge/X%20%20%20%20%20%20-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209&logoWidth=20"
+         alt="X profile of Saket Kumar" />
+  </a>
+
+  <a href="https://www.instagram.com/saket.7007">
+    <img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209&logoWidth=20"
+         alt="Instagram profile of Saket Kumar" />
+  </a>
+
+  <a href="mailto:ksaket1409@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail%20%20%20-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209&logoWidth=20"
+         alt="Email Saket Kumar" />
+  </a>
+
+</div>
+<br>
+
+**B.Tech in Artificial Intelligence, NIT Rourkela (2024–2028)**  
+Machine Learning • Deep Learning • NLP • Generative AI • Quantitative Finance • Mathematics • Data Structures • SQL
 
 ---
 
-## 🧠 About Me
+##  About Me
 Hi! I’m **Saket**, an undergraduate student at **NIT Rourkela**, pursuing **Artificial Intelligence** under the **Computer Science and Engineering** department.  
 I’m deeply interested in **Machine Learning, Deep Learning, NLP, and Generative AI**, and I love exploring how these technologies can be applied to real-world domains like **Data Analytics**.  
 
