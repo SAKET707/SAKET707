@@ -106,7 +106,7 @@ Currently, I’m focused on:
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -117,12 +117,12 @@ Currently, I’m focused on:
 </div>
 
 ---
-## 📬 Let’s Connect!
+##  Let’s Connect!
 
 I’m always eager to collaborate on projects that combine AI, finance, and data-driven decision-making.
 Feel free to connect or drop a message if you’re working on something interesting!
 
-### 🔗 Links & Contact
+###  Links & Contact
 - [LinkedIn](https://www.linkedin.com/in/saket-kumar016)
 - [X](https://x.com/SaketKumar016)
 - [Instagram](https://www.instagram.com/saket.7007)
