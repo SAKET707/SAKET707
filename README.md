@@ -4,7 +4,6 @@
 💡 Machine Learning • Deep Learning • NLP • Generative AI • Quantitative Finance • Mathematics • Data Structures • SQL
 
 <p align="center">
-  <a href="mailto:saketbawlia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="mailto:ksaket1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/saket-kumar016"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/SaketKumar016"><img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white" /></a>
@@ -102,7 +101,6 @@ Feel free to connect or drop a message if you’re working on something interest
 - [LinkedIn](https://www.linkedin.com/in/saket-kumar016)
 - [X](https://x.com/SaketKumar016)
 - [Instagram](https://www.instagram.com/saket.7007)
-- [Email: saketbawlia@gmail.com](mailto:saketbawlia@gmail.com)
 - [Email: ksaket1409@gmail.com](mailto:ksaket1409@gmail.com)
 
 ---
