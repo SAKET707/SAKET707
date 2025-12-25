@@ -30,10 +30,11 @@
          alt="Email Saket Kumar" />
   </a>
   
-  <a href="./SAKET_RESUME.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="./SAKET_RESUME.pdf">
     <img src="https://img.shields.io/badge/Resume%20%20%20-d5d5d5?style=for-the-badge&logo=adobeacrobatreader&logoColor=0A0209&logoWidth=20"
          alt="Resume of Saket Kumar" />
   </a>
+
 
 </div>
 <br>
