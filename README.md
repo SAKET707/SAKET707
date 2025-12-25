@@ -4,40 +4,16 @@
 
 ---
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/saket-kumar016/">
-    <img src="https://img.shields.io/badge/LinkedIn%20%20-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209&logoWidth=20"
-         alt="LinkedIn profile of Saket Kumar" />
-  </a>
-
-  <a href="https://www.kaggle.com/saket29">
-    <img src="https://img.shields.io/badge/Kaggle%20%20%20-d5d5d5?style=for-the-badge&logo=kaggle&logoColor=0A0209&logoWidth=20"
-         alt="Kaggle profile of Saket Kumar" />
-  </a>
-
-  <a href="https://x.com/SaketKumar016">
-    <img src="https://img.shields.io/badge/X%20%20%20%20%20%20-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209&logoWidth=20"
-         alt="X profile of Saket Kumar" />
-  </a>
-
-  <a href="https://www.instagram.com/saket.7007">
-    <img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209&logoWidth=20"
-         alt="Instagram profile of Saket Kumar" />
-  </a>
-
-  <a href="mailto:ksaket1409@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail%20%20%20-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209&logoWidth=20"
-         alt="Email Saket Kumar" />
-  </a>
-  
-  <a href="./SAKET_RESUME.pdf">
-    <img src="https://img.shields.io/badge/Resume%20%20%20-d5d5d5?style=for-the-badge&logo=adobeacrobatreader&logoColor=0A0209&logoWidth=20"
-         alt="Resume of Saket Kumar" />
-  </a>
-
-
+<a href="https://www.linkedin.com/in/saket-kumar016/"><img src="https://img.shields.io/badge/LinkedIn%20%20-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209&logoWidth=20" alt="LinkedIn profile of Saket Kumar" /></a>&nbsp;
+<a href="https://www.kaggle.com/saket29"><img src="https://img.shields.io/badge/Kaggle%20%20%20-d5d5d5?style=for-the-badge&logo=kaggle&logoColor=0A0209&logoWidth=20" alt="Kaggle profile of Saket Kumar" /></a>&nbsp;
+<a href="https://x.com/SaketKumar016"><img src="https://img.shields.io/badge/X%20%20%20%20%20%20-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209&logoWidth=20" alt="X profile of Saket Kumar" /></a>&nbsp;
+<a href="https://www.instagram.com/saket.7007"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209&logoWidth=20" alt="Instagram profile of Saket Kumar" /></a>&nbsp;
+<a href="mailto:ksaket1409@gmail.com"><img src="https://img.shields.io/badge/Gmail%20%20%20-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209&logoWidth=20" alt="Email Saket Kumar" /></a>&nbsp;
+<a href="./SAKET_RESUME.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume%20%20%20-d5d5d5?style=for-the-badge&logo=adobeacrobatreader&logoColor=0A0209&logoWidth=20" alt="Resume of Saket Kumar" /></a>
 </div>
 <br>
+
+
 
 **B.Tech in Artificial Intelligence, NIT Rourkela (2024–2028)**  
 Machine Learning • Deep Learning • NLP • Generative AI • Quantitative Finance • Mathematics • Data Structures • SQL
