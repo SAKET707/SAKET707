@@ -38,8 +38,7 @@ Currently, I’m focused on:
 ![C](https://img.shields.io/badge/C%20%20%20%20%20%20%20%20-d5d5d5?style=for-the-badge&logo=c&logoColor=0A0209&logoWidth=20)
 ![C++](https://img.shields.io/badge/C++%20%20%20%20%20-d5d5d5?style=for-the-badge&logo=cplusplus&logoColor=0A0209&logoWidth=20)
 ![SQL](https://img.shields.io/badge/SQL%20%20%20%20%20%20-d5d5d5?style=for-the-badge&logo=postgresql&logoColor=0A0209&logoWidth=20)
-
-
+![Java](https://img.shields.io/badge/Java%20%20%20%20-d5d5d5?style=for-the-badge)
 
 
 ###  **AI / ML Frameworks**
@@ -55,12 +54,10 @@ Currently, I’m focused on:
 
 
 
-
 ###  **Deep Learning & Neural Networks**
 ![Transformers](https://img.shields.io/badge/Transformers-d5d5d5?style=for-the-badge&logo=huggingface&logoColor=0A0209&logoWidth=20)
 ![TorchVision](https://img.shields.io/badge/TorchVision%20-d5d5d5?style=for-the-badge&logo=pytorch&logoColor=0A0209&logoWidth=20)
 ![TorchText](https://img.shields.io/badge/TorchText%20%20-d5d5d5?style=for-the-badge&logo=pytorch&logoColor=0A0209&logoWidth=20)
-
 
 
 ###  **NLP & GenAI Tools**
@@ -77,13 +74,10 @@ Currently, I’m focused on:
 ![FAISS](https://img.shields.io/badge/FAISS%20%20%20%20%20-d5d5d5?style=for-the-badge&logo=meta&logoColor=0A0209&logoWidth=20)
 
 
-
-
 ###  **Data Science & Visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib%20-d5d5d5?style=for-the-badge&logo=plotly&logoColor=0A0209&logoWidth=20)
 ![Seaborn](https://img.shields.io/badge/Seaborn%20%20%20-d5d5d5?style=for-the-badge&logoColor=0A0209&logoWidth=20)
 ![Plotly](https://img.shields.io/badge/Plotly%20%20%20%20-d5d5d5?style=for-the-badge&logo=plotly&logoColor=0A0209&logoWidth=20)
-
 
 
 ###  **Development & Platforms**
